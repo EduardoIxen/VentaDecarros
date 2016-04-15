@@ -1,0 +1,221 @@
+﻿@model IEnumerable<VentaDeCarrosIxen.Models.Carro>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<section class="content-header">
+    <h1>
+        Listada de carros en venta.
+    </h1>
+</section>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div class="box-body">
+    <div class="well">
+        <div id="myCarousel1" class="carousel slide">
+            <!-- Carousel items -->
+            <div class="carousel-inner">
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-3">
+                            <center>
+                                <a href="http://www.jquery2dotnet.com/"><img width="400" height="400" src="~/imagenes/15.jpg" alt="Image" class="img-responsive"></a>
+                            </center>
+                        </div>
+                        <div class="col-xs-3">
+                            <center>
+                                <a href="http://www.jquery2dotnet.com/"><img width="250" height="250" src="~/imagenes/2.jpg" alt="Image" class="img-responsive"></a>
+                            </center>
+                        </div>
+                        <div class="col-xs-3">
+                            <center>
+                                <a href="http://www.jquery2dotnet.com/"><img width="250" height="250" src="~/imagenes/3.jpg" alt="Image" class="img-responsive"></a>
+                            </center>
+                        </div>
+                        <div class="col-xs-3">
+                            <center>
+                                <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/4.jpg" alt="Image" class="img-responsive"></a>
+                            </center>
+                        </div>
+                    </div>
+                    <!--/row-->
+                </div>
+                <!--/item-->
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-xs-3">
+                            <center>
+                                <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/14.jpg" alt="Image" class="img-responsive"></a>
+                            </center>
+                        </div>
+                        <div class="col-xs-3">
+                            <center>
+                                <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/13.jpg" alt="Image" class="img-responsive"></a>
+                            </center>
+                        </div>
+                        <div class="col-xs-3">
+                            <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/7.jpg" alt="Image" class="img-responsive"></a>
+                        </div>
+                        <div class="col-xs-3">
+                            <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/8.jpg" alt="Image" class="img-responsive"></a>
+                        </div>
+                    </div>
+                    <!--/row-->
+                </div>
+                <!--/item-->
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-3">
+                            <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/9.jpg" alt="Image" class="img-responsive"></a>
+                        </div>
+                        <div class="col-xs-3">
+                            <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/10.jpg" alt="Image" class="img-responsive"></a>
+                        </div>
+                        <div class="col-xs-3">
+                            <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/11.jpg" alt="Image" class="img-responsive"></a>
+                        </div>
+                        <div class="col-xs-3">
+                            <a href="http://www.jquery2dotnet.com/"><img src="~/imagenes/12.jpg" alt="Image" class="img-responsive"></a>
+                        </div>
+                    </div>
+                    <!--/row-->
+                </div>
+                <!--/item-->
+            </div>
+            <!--/carousel-inner--> <a class="left carousel-control" href="#myCarousel1" data-slide="prev">‹</a>
+            <a class="right carousel-control" href="#myCarousel1" data-slide="next">›</a>
+        </div>
+        <!--/myCarousel-->
+    </div>
+</div>
+@foreach (var item in Model)
+{
+
+    @*<th>*@
+    @*<div class="row">
+            <div class="col-sm-12">
+                <div class="thumbnail">
+                    @if (item.archivos.Any(f => f.tipo == FileType.Imagen))
+                    {
+                        <dt>
+                            Imagen
+                        </dt>
+                        <dd>
+                            <img width="600" height="600" src="~/Archivo/ObtenerArchivo?id=@item.archivos.First(f => f.tipo== FileType.Imagen).idArchivo"  alt="imagen" />
+                        </dd>
+                    }
+                    <div id='myModal' class='modal fade in'>
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div id='myModalContent'></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-warning" data-dismiss="modal">Close</button>
+                    </div>
+                    <div class="caption">
+                        @Html.DisplayFor(modelItem => item.modelo)
+                        <p>@Html.ActionLink("Edit", "Edit", new { id = item.idCarro }, new { @class = "btn btn-primary" })</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>*@
+    @*</th>*@
+    <div class="col-md-6">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">
+                    @Html.DisplayFor(modelItem => item.marca)
+                    @Html.DisplayFor(modelItem => item.modelo)
+                </h3>
+                <h3 class="box-title pull-right">
+                   Q @Html.DisplayFor(modelitem => item.precio)
+                </h3>
+                @*<div class="box-tools pull-right">
+                    <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                        <i class="fa fa-minus"></i>
+                    </button>
+                    <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                </div>*@
+            </div>
+            <div class="box-body">
+                <div class="box-body" style="display: block;">
+
+                    @if (item.archivos.Any(f => f.tipo == FileType.Imagen))
+                    {
+                        <center>
+                            <dd>
+                                <img width="500" height="300" src="~/Archivo/ObtenerArchivo?id=@item.archivos.First(f => f.tipo== FileType.Imagen).idArchivo" alt="imagen" />
+                            </dd>
+                        </center>
+                    }
+                </div>
+                @*<img class="img-responsive pad" src="assets/img/2.jpg" alt="Photo">*@
+                <p>@Html.DisplayFor(modelItem => item.descripcion)</p>
+                <a href="compras.html"><button class="btn btn-default btn-xs"><i class="fa fa-shopping-cart"></i> Comprar</button></a>
+                @if (Session["idUsuario"].Equals(2))
+                {
+                <button class="btn btn-default btn-xs">
+                    <i class="fa fa-thumbs-o-up"></i>@Html.ActionLink("Delete", "Delete", new { id = item.idCarro })
+                </button>
+                }
+                <span class="pull-right text-muted"> Año @Html.DisplayFor(modelItem => item.añoFabricacion)</span>
+                <button class="btn btn-default btn-xs"><i class="fa fa-thumbs-o-up"></i>@Html.ActionLink("Ver mas...", "Details", new { id = item.idCarro })</button>
+            </div>
+        </div>
+    </div>
+    @*<tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.modelo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.combustible)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.kilometros)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.añoFabricacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidad)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.idCarro }) |
+                @Html.ActionLink("Details", "Details", new { id = item.idCarro }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.idCarro })
+            </td>
+        </tr>*@
+}
+
+
+
+<script src="~/Scripts/Ventana.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jQuery-2.1.4.min.js"></script>
+<script src="~/Scripts/js/app.min.js"></script>
+<link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+<link rel="stylesheet" href="~/Content/css/AdminLTE.min.css" />
+<link rel="stylesheet" href="~/Content/css/skins/skin-blue.min.css" />
+<link rel="stylesheet" href="~/Content/css/img.css" />
+<link rel="stylesheet" href="~/Content/css/black.css" />
+

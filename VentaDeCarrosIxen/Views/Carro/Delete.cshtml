@@ -1,0 +1,106 @@
+﻿@model VentaDeCarrosIxen.Models.Carro
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Carro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        @if (Model.archivos.Any(f => f.tipo == FileType.Imagen))
+        {
+            <dt>
+                Imagen
+            </dt>
+            <dd>
+                <img height="300" width="300" src="~/Archivo/ObtenerArchivo?id=@Model.archivos.First(f => f.tipo== FileType.Imagen).idArchivo" alt="imagen" />
+            </dd>
+        }
+        <dt>
+            @Html.DisplayNameFor(model => model.modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modelo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.color)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.color)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.combustible)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.combustible)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.kilometros)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.kilometros)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.añoFabricacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.añoFabricacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cantidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cantidad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

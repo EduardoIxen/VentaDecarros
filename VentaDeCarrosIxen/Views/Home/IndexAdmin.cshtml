@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="page-header">
+    <h1>DASHBOARD<small> Panel de administración</small></h1>
+</div>
+<div class="row">
+    <div class="col-sm-4">
+        <div class="thumbnail">
+            <img src="..." alt="...">
+            <div class="caption">
+                <h3>Usuario</h3>
+                <p>Esta opcion puede administrar los usuarios existentes.</p>
+                <p>@Html.ActionLink("Ver usuarios", "Index", "Cuenta", new { area = "" }, new { @class = "btn btn-primary" })</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <div class="thumbnail">
+            <img src="~/imagenes/carros-venta.jpg" alt="...">
+            <div class="caption">
+                <h3>Autos en venta</h3>
+                <p>En esta opcion puede administrar todos los carros.</p>
+                <p>@Html.ActionLink("Ver carros", "Index", "Carro", new { area = "" }, new { @class = "btn btn-primary" })</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <div class="thumbnail">
+            <img src="..." alt="...">
+            <div class="caption">
+                <h3>Pedidos</h3>
+                <p>Esta opcion puede administrar pedidos.</p>
+                <p>@Html.ActionLink("Ver pedidos", "Index", "Usuario", new { area = "" }, new { @class = "btn btn-primary" })</p>
+            </div>
+        </div>
+    </div>
+</div>

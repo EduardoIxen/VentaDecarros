@@ -1,0 +1,8 @@
+﻿.todos_igual a{
+    display: block;
+    overflow-x: hidden;
+    height: 5030px;
+    width:5030px;
+    overflow-y: hidden;
+    position: relative;
+}

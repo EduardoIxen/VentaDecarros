@@ -1,0 +1,151 @@
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll.config
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.pdb
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Razor.resources.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.resources.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.dll
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.pdb
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.Migrations.DB_VENTACARROS.resources
+C:\Users\DELL\Downloads\Documents\Visual Studio 2013\Projects\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csproj.GenerateResource.Cache
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll.config
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.pdb
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.xml
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Razor.resources.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.resources.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Helpers.resources.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Mvc.resources.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csprojResolveAssemblyReference.cache
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.pdb
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csproj.GenerateResource.Cache
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll.config
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.pdb
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.xml
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Razor.resources.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.resources.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Deployment.resources.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Razor.resources.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Helpers.resources.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Mvc.resources.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.dll
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.pdb
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.Migrations.BD_VENTACARROS.resources
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csproj.GenerateResource.Cache
+G:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csprojResolveAssemblyReference.cache
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\Microsoft.Web.Infrastructure.dll
+E:\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.Migrations.BD_VENTACARROS.resources
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll.config
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.pdb
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.Migrations.BD_VENTACARROS.resources
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.pdb
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll.config
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\VentaDeCarrosIxen.pdb
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.dll
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.pdb
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.Migrations.DB_VENTACARROS.resources
+C:\Users\DELL\Desktop\VentaDeCarrosIxen\VentaDeCarrosIxen\obj\Debug\VentaDeCarrosIxen.csproj.GenerateResource.Cache
